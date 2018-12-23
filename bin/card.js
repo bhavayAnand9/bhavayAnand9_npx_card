@@ -22,7 +22,7 @@ const data = {
   linkedin: chalk.cyan("https://www.linkedin.com/in/bhavayanand9/"),
   web: chalk.cyan("www.bhavayanand.me"),
   npx: chalk.white("npx bhavayAnand9"),
-  labelWork: chalk.white.bold("      Work:"),
+  labelWork: chalk.white.bold("      About:"),
   labelTwitter: chalk.white.bold("   Twitter:"),
   labelGitHub: chalk.white.bold("    GitHub:"),
   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
