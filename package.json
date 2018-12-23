@@ -1,0 +1,28 @@
+{
+  "name": "trivikram",
+  "version": "1.0.0",
+  "description": "A personal card for Bhavay Anand (@bhavayAnand9)",
+  "main": "index.js",
+  "bin": {
+    "bhavayAnand9": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavayAnand9/bhavayAnand9_npx_card.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bhavay anand",
+    "bhavayAnand9",
+    "npm",
+    "card"
+  ],
+  "author": "bhavayAnand9",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
